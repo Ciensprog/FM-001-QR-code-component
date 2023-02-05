@@ -19,9 +19,9 @@ export function App() {
             />
           </picture>
           <section className="px-4">
-            <h1 className="font-bold leading-7 mt-6 text-[1.375rem] text-dark-navy">
+            <h2 className="font-bold leading-7 mt-6 text-[1.375rem] text-dark-navy">
               Improve your front-end skills by building projects
-            </h1>
+            </h2>
             <p className="mt-4 text-[0.9375rem] text-grey">
               Scan the QR code to visit Frontend Mentor and take your coding
               skills to the next level
