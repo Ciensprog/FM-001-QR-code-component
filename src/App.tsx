@@ -7,7 +7,7 @@
 export function App() {
   return (
     <main>
-      <article className="bg-white p-4 pb-10 rounded-[1.25rem] text-center w-80 max-w-full">
+      <article className="card bg-white p-4 pb-10 rounded-[1.25rem] text-center w-80 max-w-full">
         <picture>
           <img
             src="./qr-code.png"
